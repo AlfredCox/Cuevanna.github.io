@@ -8,7 +8,7 @@ const OnlineSeries = ({ onlineSeries }) => (
   <div className='container'>
     <div className='row col-12 col-xl-9 justify-content-center float-left'>
       <div className='col-sm-12 col-lg-4 mt-4 text-center text-sm-left'>
-        <h3 className='font-weight-bold'>Series Online</h3>
+        <h3 className='font-weight-bold'>Te amo meylin</h3>
       </div>
 
       <div className='d-none d-sm-block col-sm-12 col-lg-8 menuMovieOnline mt-2 mt-lg-4 mb-4 mb-lg-0'>
